@@ -1,0 +1,19 @@
+.Counter {
+  border: 2px solid green;
+  padding: 10px;
+  text-align: center;
+  width: 200px;
+  margin: 10px;
+}
+.Counter button {
+  margin: 5px;
+  border-radius: 5px;
+  border: 1px solid black;
+}
+
+.Counter button:hover {
+  cursor: pointer;
+}
+/* .Negative {
+  color: red;
+} */

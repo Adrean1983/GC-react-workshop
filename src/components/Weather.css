@@ -1,0 +1,8 @@
+.Weather {
+  border: 2px solid black;
+  padding: 10px;
+  max-width: 200px;
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+}
