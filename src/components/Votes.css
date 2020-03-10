@@ -22,3 +22,7 @@ label {
   margin: 5px 5px;
   border-radius: 5px;
 }
+
+.Votes span {
+  display: block;
+}
